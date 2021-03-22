@@ -1,0 +1,2 @@
+com/mycompany/projetogradle/Main.java
+ com.mycompany.projetogradle.Main
