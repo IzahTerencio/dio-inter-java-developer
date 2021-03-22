@@ -1,2 +1,6 @@
 exemplos/Aula.java
  exemplos.Aula
+exemplos/ComposicaoDeFuncoes.java
+ exemplos.ComposicaoDeFuncoes
+exemplos/Funcional.java
+ exemplos.Funcional
